@@ -1,1 +1,1 @@
-remove weekend step counts
+restore weekend steps so we make progress count
